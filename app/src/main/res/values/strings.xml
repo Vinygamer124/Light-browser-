@@ -6,5 +6,18 @@
     <string name="cd_home">Trang chủ</string>
     <string name="cd_share">Chia sẻ</string>
     <string name="cd_reload">Tải lại</string>
+    <string name="cd_tabs">Các thẻ</string>
+    <string name="cd_close_tab">Đóng thẻ</string>
     <string name="downloading">Đang tải xuống…</string>
+    <string name="tabs_title">Các thẻ</string>
+    <string name="new_tab">+  Thẻ mới</string>
+    <string name="done">Xong</string>
+    <string name="blank_tab">Trang mới</string>
+    <string name="playing_now">♪ Đang phát</string>
+    <string name="notif_channel">Phát nền</string>
+    <string name="notif_playing">Đang phát nền</string>
+    <string name="notif_paused">Đã tạm dừng</string>
+    <string name="notif_play">Phát</string>
+    <string name="notif_pause">Tạm dừng</string>
+    <string name="notif_close">Đóng</string>
 </resources>
