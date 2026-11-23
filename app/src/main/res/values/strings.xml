@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trình duyệt Lite</string>
+    <string name="hint_address">Tìm kiếm hoặc nhập địa chỉ</string>
+    <string name="cd_back">Quay lại</string>
+    <string name="cd_forward">Tiến tới</string>
+    <string name="cd_home">Trang chủ</string>
+    <string name="cd_share">Chia sẻ</string>
+    <string name="cd_reload">Tải lại</string>
+    <string name="downloading">Đang tải xuống…</string>
+</resources>

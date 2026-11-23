@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.LightBrowser" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:textColorHint">@color/ink_soft</item>
+    </style>
+</resources>
